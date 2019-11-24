@@ -1,0 +1,21 @@
+.sr-only {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
+}
+.main{
+  text-align: center;
+font-family: 'Herr Von Muellerhoff', cursive;
+}
+.tribute-info{
+font-family: 'Font Name', serif;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
